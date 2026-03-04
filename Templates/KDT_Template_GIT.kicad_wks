@@ -1,7 +1,7 @@
 (kicad_wks
 	(version 20231118)
 	(generator "pl_editor")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(setup
 		(textsize 1.5 1.5)
 		(linewidth 0.15)
@@ -87,29 +87,29 @@
 	)
 	(tbtext "${#}"
 		(name "")
-		(pos 25.6 6.0002)
+		(pos 25.6 6)
 		(font
 			(face "Times New Roman")
 			(size 2.5 2.5) bold
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "Sheet:"
 		(name "")
-		(pos 25.989 10.5022)
+		(pos 25.989 10.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "of"
 		(name "")
-		(pos 17.489 5.5022)
+		(pos 17.489 5.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -119,7 +119,7 @@
 		(font
 			(face "Times New Roman")
 			(size 2.5 2.5) bold
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -128,17 +128,17 @@
 		(pos 41.989 10.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "${PAPER}"
 		(name "")
-		(pos 40.989 6.0022)
+		(pos 40.989 6.002)
 		(font
 			(face "Times New Roman")
 			(size 2.5 2.5) bold
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -172,7 +172,7 @@
 		(pos 25.989 21.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -181,7 +181,7 @@
 		(pos 25.989 16.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -195,7 +195,7 @@
 		(pos 41.989 21.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -214,7 +214,7 @@
 		(pos 41.989 31.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -223,25 +223,25 @@
 		(pos 41.989 16.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "Reviewer:"
 		(name "")
-		(pos 68.9892 10.5022)
+		(pos 68.989 10.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "${COMMENT9}"
 		(name "")
-		(pos 68.9892 6.0022)
+		(pos 68.989 6.002)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -257,10 +257,10 @@
 	)
 	(tbtext "Designer:"
 		(name "")
-		(pos 68.9892 21.0022)
+		(pos 68.989 21.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -276,10 +276,10 @@
 	)
 	(tbtext "${DESIGNER}"
 		(name "")
-		(pos 68.9892 16.5022)
+		(pos 68.989 16.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -303,7 +303,7 @@
 		(pos 110.989 16.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -322,16 +322,16 @@
 		(pos 110.989 31.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "Variant:"
 		(name "")
-		(pos 41.989 42.0022)
+		(pos 41.989 42.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -350,7 +350,7 @@
 		(pos 41.989 37.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -369,7 +369,7 @@
 		(pos 110.989 42.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -378,7 +378,7 @@
 		(pos 110.989 37.502)
 		(font
 			(face "Times New Roman") bold
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -388,7 +388,7 @@
 		(font
 			(face "Times New Roman")
 			(size 2.5 2.5) bold
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -398,7 +398,7 @@
 		(font
 			(face "Times New Roman")
 			(size 2.5 2.5) bold
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -427,16 +427,16 @@
 		(pos 110.989 21.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
 	(tbtext "Sheet Title:"
 		(name "")
-		(pos 145.489 21.0022)
+		(pos 145.489 21.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -445,7 +445,7 @@
 		(pos 145.489 6.002)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -454,7 +454,7 @@
 		(pos 145.489 10.502)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -463,7 +463,7 @@
 		(pos 145.489 16.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -482,7 +482,7 @@
 		(pos 145.489 42.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -491,7 +491,7 @@
 		(pos 145.489 37.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -500,7 +500,7 @@
 		(pos 145.489 34.002)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -509,7 +509,7 @@
 		(pos 145.489 30.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -518,7 +518,7 @@
 		(pos 145.489 27.002)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -542,7 +542,7 @@
 		(pos 17.989 42.002)
 		(font
 			(face "Arial")
-			(color 0 0 255 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
@@ -556,7 +556,7 @@
 		(pos 17.989 37.502)
 		(font
 			(face "Times New Roman")
-			(color 0 0 127 1)
+			(color 0 212 0 1)
 		)
 		(comment "Sheet id")
 	)
